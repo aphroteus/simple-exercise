@@ -5,6 +5,7 @@
 int add_two_number (int num1, int num2);
 
 /* main function here */
+/* Answer should be 3 */
 int main()
 {
   int ans;
