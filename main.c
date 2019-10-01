@@ -1,8 +1,10 @@
 /** VERSION V0.01 **/
 #include <stdio.h>
 
+/* Function prototype */
 int add_two_number (int num1, int num2);
 
+/* main function here */
 int main()
 {
   int ans;
@@ -16,6 +18,7 @@ int main()
 }
 
 
+/* Function that retuen summary of two number */
 int add_two_number (int num1, int num2)
 {
   return (num1 + num2);
