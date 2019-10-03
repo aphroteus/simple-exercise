@@ -38,5 +38,5 @@ int add_two_number (int num1, int num2)
 int sub_two_number (int num1, int num2)
 {
   DEBUG_PRINT (("DEBUG: sub_two_number entry\n"));
-  return (num1 + num2);
+  return (num1 - num2);
 }
